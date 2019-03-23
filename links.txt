@@ -1,2 +1,3 @@
 https://cloud.thw-paderborn.de/index.php/s/tfLCNLjKt6W4C7y
 https://blog.syncfusion.com/post/put-openstreetmaps-bing-maps-in-your-xamarin-forms-application-using-syncfusion-maps.aspx
+https://github.com/osmdroid/osmdroid/wiki/How-to-use-the-osmdroid-library
